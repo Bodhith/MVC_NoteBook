@@ -1,1 +1,2 @@
 
+While Unistalling NuGet Packages, you cannot unistall this package without unistalling all the other NuGet packages that are dependent on this NuGet package.
